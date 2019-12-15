@@ -1,0 +1,6 @@
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Dto\bin\Debug\Dto.dll
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Dto\bin\Debug\Dto.pdb
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Dto\obj\Debug\Dto.dll
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Dto\obj\Debug\Dto.pdb

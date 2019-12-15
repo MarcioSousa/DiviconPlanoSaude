@@ -1,0 +1,16 @@
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.frm_ClientePlanoSaude.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.frm_Empresa.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.frm_Graficos.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.frm_Mensalidade.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.frm_PesqPlano.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.frm_PesqVendedor.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.frm_PesqVida.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.frm_Principal.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.frm_VendaPlanoSaude.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.frm_Vendedor.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.frm_Cliente.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.frm_PlanoSaude.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.SplashScreen.resources
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache

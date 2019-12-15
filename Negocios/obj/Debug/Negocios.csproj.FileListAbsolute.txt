@@ -1,0 +1,13 @@
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Negocios\bin\Debug\Negocios.dll.config
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Negocios\bin\Debug\Negocios.dll
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Negocios\bin\Debug\Negocios.pdb
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Negocios\bin\Debug\Dal.dll
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Negocios\bin\Debug\Dto.dll
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Negocios\bin\Debug\Dal.pdb
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Negocios\bin\Debug\Dal.dll.config
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Negocios\bin\Debug\Dto.pdb
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Negocios\obj\Debug\Negocios.csprojAssemblyReference.cache
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Negocios\obj\Debug\Negocios.dll
+C:\Users\Marcio Sousa\Desktop\Meus projetos\Backup\Divicon\Negocios\obj\Debug\Negocios.pdb
